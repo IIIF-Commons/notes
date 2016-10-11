@@ -1,7 +1,7 @@
 # notes
 [![](https://img.shields.io/badge/discussion_repo-go_to_issues-brightgreen.svg?style=flat-square)](https://github.com/viewdir/notes/issues)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-> notes on random things
+> notes on random things, collective to-dos, and wishlists
 
 This is a **discussion repo**. That means that all of the work gets done in the [issues](https://github.com/viewdir/notes/issues).
 
